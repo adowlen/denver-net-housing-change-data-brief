@@ -1,0 +1,78 @@
+neighborhood,new_building,phased,demolitions,net,gross,churn_pct,small_counts_flag
+Central Park,1075,36,12,1063,1087,1.1,False
+Gateway - Green Valley Ranch,847,4,4,843,851,0.5,False
+DIA,738,7,5,733,743,0.7,False
+West Colfax,784,80,162,622,946,17.1,False
+Sunnyside,490,63,164,326,654,25.1,False
+Berkeley,544,114,236,308,780,30.3,False
+Overland,361,52,112,249,473,23.7,False
+Virginia Village,263,4,27,236,290,9.3,False
+Sloan Lake,373,89,170,203,543,31.3,False
+Highland,302,94,115,187,417,27.6,False
+Washington Park,430,207,276,154,706,39.1,False
+University,264,73,122,142,386,31.6,False
+Northeast Park Hill,161,5,19,142,180,10.6,False
+Villa Park,179,9,42,137,221,19.0,False
+West Highland,226,69,101,125,327,30.9,False
+North Park Hill,183,31,66,117,249,26.5,False
+University Park,247,105,137,110,384,35.7,False
+City Park West,130,8,24,106,154,15.6,False
+Platt Park,252,83,149,103,401,37.2,False
+Five Points,189,26,97,92,286,33.9,False
+University Hills,185,56,97,88,282,34.4,False
+Washington Park West,197,68,111,86,308,36.0,False
+Clayton,110,13,25,85,135,18.5,False
+Lowry Field,84,2,2,82,86,2.3,False
+Harvey Park South,88,0,8,80,96,8.3,False
+Chaffee Park,89,2,12,77,101,11.9,False
+Whittier,102,14,29,73,131,22.1,False
+Cory - Merrill,210,106,141,69,351,40.2,False
+East Colfax,85,8,18,67,103,17.5,False
+Jefferson Park,88,5,25,63,113,22.1,False
+Hampden,66,2,3,63,69,4.3,False
+Hale,118,18,60,58,178,33.7,False
+Cherry Creek,143,45,86,57,229,37.6,False
+Cole,111,16,54,57,165,32.7,False
+Baker,93,9,37,56,130,28.5,False
+Marston,56,37,1,55,57,1.8,False
+Skyland,77,15,24,53,101,23.8,False
+Montclair,97,38,45,52,142,31.7,False
+Congress Park,123,26,71,52,194,36.6,False
+Athmar Park,67,1,15,52,82,18.3,False
+Rosedale,85,19,36,49,121,29.8,False
+Westwood,70,7,24,46,94,25.5,False
+Belcaro,150,97,105,45,255,41.2,False
+Windsor,46,1,3,43,49,6.1,False
+South Park Hill,123,53,83,40,206,40.3,False
+Barnum,46,6,10,36,56,17.9,False
+Hilltop,141,92,107,34,248,43.1,False
+Lincoln Park,71,7,40,31,111,36.0,False
+Mar Lee,35,5,7,28,42,16.7,False
+Speer,78,14,51,27,129,39.5,False
+Regis,49,17,22,27,71,31.0,False
+Barnum West,30,1,6,24,36,16.7,False
+Ruby Hill,23,0,4,19,27,14.8,True
+College View - South Platte,27,2,9,18,36,25.0,False
+Valverde,26,4,9,17,35,25.7,False
+Harvey Park,26,2,11,15,37,29.7,False
+City Park,32,5,17,15,49,34.7,False
+Washington Virginia Vale,24,3,9,15,33,27.3,False
+Country Club,50,30,37,13,87,42.5,False
+Bear Valley,12,2,1,11,13,7.7,True
+Wellshire,38,32,27,11,65,41.5,False
+Goldsmith,9,0,3,6,12,25.0,True
+Cheesman Park,13,3,9,4,22,40.9,True
+Fort Logan,6,0,3,3,9,33.3,True
+Montbello,8,0,6,2,14,42.9,True
+Elyria Swansea,31,4,30,1,61,49.2,False
+Kennedy,0,0,1,-1,1,100.0,True
+Auraria,0,0,1,-1,1,100.0,True
+Southmoor Park,2,0,4,-2,6,66.7,True
+Hampden South,11,0,19,-8,30,63.3,False
+North Capitol Hill,4,0,16,-12,20,80.0,True
+Capitol Hill,10,2,24,-14,34,70.6,False
+Union Station,0,0,14,-14,14,100.0,True
+Globeville,26,3,41,-15,67,61.2,False
+CBD,0,0,15,-15,15,100.0,True
+Civic Center,0,0,32,-32,32,100.0,False
+Sun Valley,0,0,78,-78,78,100.0,False
