@@ -1,0 +1,373 @@
+{
+  "window": {
+    "start": "2020-01-01",
+    "end": "2026-10-12",
+    "pulled": "2026-10-14"
+  },
+  "permits_pulled_in_window": 31200,
+  "permits_active": 31005,
+  "permits_cancelled": 195,
+  "demo_service_rows_in_window": 5152,
+  "demo_wreck_rows": 3843,
+  "demo_service_nonwreck_line_items_excluded": 1309,
+  "demo_cancelled": 6,
+  "demolitions_active": 3837,
+  "new_building_active": 11585,
+  "phased_active": 2069,
+  "net_structures": 7748,
+  "gross_activity": 15422,
+  "churn_citywide_pct": 24.9,
+  "demos_per_100_new": 33.1,
+  "net_with_phased": 9817,
+  "brief1_active_permits": 30902,
+  "brief1_new_building": 11559,
+  "units_new_building": {
+    "rows": 11585,
+    "units_field_nonnull": 6475,
+    "units_numeric": 6473,
+    "units_coverage_pct": 55.9,
+    "units_reported_sum": 6622,
+    "units_gt1": 40,
+    "units_eq1": 6402,
+    "units_max": 12.0
+  },
+  "units_demolitions": {
+    "rows": 3837,
+    "units_field_nonnull": 1589,
+    "units_numeric": 1589,
+    "units_coverage_pct": 41.4,
+    "units_reported_sum": 2032,
+    "units_gt1": 194,
+    "units_eq1": 1359,
+    "units_max": 18.0
+  },
+  "nb_neighborhood_match_pct": 99.5,
+  "nb_zoning_match_pct": 99.5,
+  "phased_neighborhood_match_pct": 99.1,
+  "phased_zoning_match_pct": 99.1,
+  "demo_neighborhood_match_pct": 99.5,
+  "demo_zoning_match_pct": 99.5,
+  "demo_nbhd_field_vs_spatial_agreement_pct": 100.0,
+  "demo_nbhd_field_missing": 19,
+  "new_building_in_growth": 2940,
+  "new_building_outside_growth": 8645,
+  "new_building_in_growth_pct": 25.4,
+  "demolitions_in_growth": 638,
+  "demolitions_outside_growth": 3199,
+  "demolitions_in_growth_pct": 16.6,
+  "net_in_growth": 2302,
+  "net_outside_growth": 5446,
+  "new_building_in_su_zoning": 4222,
+  "new_building_in_su_zoning_pct_of_matched": 36.6,
+  "demolitions_in_su_zoning": 2142,
+  "demolitions_in_su_zoning_pct_of_matched": 56.1,
+  "by_year": {
+    "2020": {
+      "new_building": 1934,
+      "demolitions": 568,
+      "net": 1366
+    },
+    "2021": {
+      "new_building": 2343,
+      "demolitions": 697,
+      "net": 1646
+    },
+    "2022": {
+      "new_building": 2002,
+      "demolitions": 743,
+      "net": 1259
+    },
+    "2023": {
+      "new_building": 1887,
+      "demolitions": 542,
+      "net": 1345
+    },
+    "2024": {
+      "new_building": 1330,
+      "demolitions": 440,
+      "net": 890
+    },
+    "2025": {
+      "new_building": 1309,
+      "demolitions": 458,
+      "net": 851
+    },
+    "2026": {
+      "new_building": 780,
+      "demolitions": 389,
+      "net": 391
+    }
+  },
+  "neighborhoods_with_activity": 77,
+  "neighborhoods_negative_net": 11,
+  "neighborhoods_negative_net_list": [
+    "Kennedy",
+    "Auraria",
+    "Southmoor Park",
+    "Hampden South",
+    "North Capitol Hill",
+    "Capitol Hill",
+    "Union Station",
+    "Globeville",
+    "CBD",
+    "Civic Center",
+    "Sun Valley"
+  ],
+  "top10_net_gainers": [
+    {
+      "neighborhood": "Central Park",
+      "net": 1063,
+      "new_building": 1075,
+      "demolitions": 12
+    },
+    {
+      "neighborhood": "Gateway - Green Valley Ranch",
+      "net": 843,
+      "new_building": 847,
+      "demolitions": 4
+    },
+    {
+      "neighborhood": "DIA",
+      "net": 733,
+      "new_building": 738,
+      "demolitions": 5
+    },
+    {
+      "neighborhood": "West Colfax",
+      "net": 622,
+      "new_building": 784,
+      "demolitions": 162
+    },
+    {
+      "neighborhood": "Sunnyside",
+      "net": 326,
+      "new_building": 490,
+      "demolitions": 164
+    },
+    {
+      "neighborhood": "Berkeley",
+      "net": 308,
+      "new_building": 544,
+      "demolitions": 236
+    },
+    {
+      "neighborhood": "Overland",
+      "net": 249,
+      "new_building": 361,
+      "demolitions": 112
+    },
+    {
+      "neighborhood": "Virginia Village",
+      "net": 236,
+      "new_building": 263,
+      "demolitions": 27
+    },
+    {
+      "neighborhood": "Sloan Lake",
+      "net": 203,
+      "new_building": 373,
+      "demolitions": 170
+    },
+    {
+      "neighborhood": "Highland",
+      "net": 187,
+      "new_building": 302,
+      "demolitions": 115
+    }
+  ],
+  "bottom10_net": [
+    {
+      "neighborhood": "Auraria",
+      "net": -1,
+      "new_building": 0,
+      "demolitions": 1,
+      "gross": 1
+    },
+    {
+      "neighborhood": "Southmoor Park",
+      "net": -2,
+      "new_building": 2,
+      "demolitions": 4,
+      "gross": 6
+    },
+    {
+      "neighborhood": "Hampden South",
+      "net": -8,
+      "new_building": 11,
+      "demolitions": 19,
+      "gross": 30
+    },
+    {
+      "neighborhood": "North Capitol Hill",
+      "net": -12,
+      "new_building": 4,
+      "demolitions": 16,
+      "gross": 20
+    },
+    {
+      "neighborhood": "Capitol Hill",
+      "net": -14,
+      "new_building": 10,
+      "demolitions": 24,
+      "gross": 34
+    },
+    {
+      "neighborhood": "Union Station",
+      "net": -14,
+      "new_building": 0,
+      "demolitions": 14,
+      "gross": 14
+    },
+    {
+      "neighborhood": "Globeville",
+      "net": -15,
+      "new_building": 26,
+      "demolitions": 41,
+      "gross": 67
+    },
+    {
+      "neighborhood": "CBD",
+      "net": -15,
+      "new_building": 0,
+      "demolitions": 15,
+      "gross": 15
+    },
+    {
+      "neighborhood": "Civic Center",
+      "net": -32,
+      "new_building": 0,
+      "demolitions": 32,
+      "gross": 32
+    },
+    {
+      "neighborhood": "Sun Valley",
+      "net": -78,
+      "new_building": 0,
+      "demolitions": 78,
+      "gross": 78
+    }
+  ],
+  "top10_churn_gross30plus": [
+    {
+      "neighborhood": "Sun Valley",
+      "churn_pct": 100.0,
+      "gross": 78,
+      "new_building": 0,
+      "demolitions": 78,
+      "net": -78
+    },
+    {
+      "neighborhood": "Civic Center",
+      "churn_pct": 100.0,
+      "gross": 32,
+      "new_building": 0,
+      "demolitions": 32,
+      "net": -32
+    },
+    {
+      "neighborhood": "Capitol Hill",
+      "churn_pct": 70.6,
+      "gross": 34,
+      "new_building": 10,
+      "demolitions": 24,
+      "net": -14
+    },
+    {
+      "neighborhood": "Hampden South",
+      "churn_pct": 63.3,
+      "gross": 30,
+      "new_building": 11,
+      "demolitions": 19,
+      "net": -8
+    },
+    {
+      "neighborhood": "Globeville",
+      "churn_pct": 61.2,
+      "gross": 67,
+      "new_building": 26,
+      "demolitions": 41,
+      "net": -15
+    },
+    {
+      "neighborhood": "Elyria Swansea",
+      "churn_pct": 49.2,
+      "gross": 61,
+      "new_building": 31,
+      "demolitions": 30,
+      "net": 1
+    },
+    {
+      "neighborhood": "Hilltop",
+      "churn_pct": 43.1,
+      "gross": 248,
+      "new_building": 141,
+      "demolitions": 107,
+      "net": 34
+    },
+    {
+      "neighborhood": "Country Club",
+      "churn_pct": 42.5,
+      "gross": 87,
+      "new_building": 50,
+      "demolitions": 37,
+      "net": 13
+    },
+    {
+      "neighborhood": "Wellshire",
+      "churn_pct": 41.5,
+      "gross": 65,
+      "new_building": 38,
+      "demolitions": 27,
+      "net": 11
+    },
+    {
+      "neighborhood": "Belcaro",
+      "churn_pct": 41.2,
+      "gross": 255,
+      "new_building": 150,
+      "demolitions": 105,
+      "net": 45
+    }
+  ],
+  "neighborhoods_majority_demolition": [
+    {
+      "neighborhood": "Hampden South",
+      "churn_pct": 63.3,
+      "gross": 30,
+      "net": -8
+    },
+    {
+      "neighborhood": "Capitol Hill",
+      "churn_pct": 70.6,
+      "gross": 34,
+      "net": -14
+    },
+    {
+      "neighborhood": "Globeville",
+      "churn_pct": 61.2,
+      "gross": 67,
+      "net": -15
+    },
+    {
+      "neighborhood": "Civic Center",
+      "churn_pct": 100.0,
+      "gross": 32,
+      "net": -32
+    },
+    {
+      "neighborhood": "Sun Valley",
+      "churn_pct": 100.0,
+      "gross": 78,
+      "net": -78
+    }
+  ],
+  "pairing_addr_exact_demo_share_pct": 36.3,
+  "pairing_addr_exact_nb_share_pct": 14.9,
+  "pairing_addr_base_demo_share_pct": 62.5,
+  "pairing_addr_base_nb_share_pct": 29.8,
+  "pairing_demos_with_nb_same_address": 2397,
+  "pairing_demo_before_or_same_nb_pct": 96.7,
+  "pairing_median_days_demo_to_first_later_nb": 85,
+  "pairing_demo_with_later_nb_count": 2304,
+  "demo_valuation_median": 8000.0
+}
