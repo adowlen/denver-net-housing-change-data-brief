@@ -1,0 +1,515 @@
+{
+  "ledger": [
+    {
+      "figure": "permits rows in extract",
+      "expected": 31200,
+      "recomputed": 31200,
+      "status": "REPRODUCED",
+      "note": ""
+    },
+    {
+      "figure": "demo service rows in extract",
+      "expected": 5152,
+      "recomputed": 5152,
+      "status": "REPRODUCED",
+      "note": ""
+    },
+    {
+      "figure": "permits active (not cancelled)",
+      "expected": 31005,
+      "recomputed": 31005,
+      "status": "REPRODUCED",
+      "note": ""
+    },
+    {
+      "figure": "permits cancelled",
+      "expected": 195,
+      "recomputed": 195,
+      "status": "REPRODUCED",
+      "note": ""
+    },
+    {
+      "figure": "new-building permits, active",
+      "expected": 11585,
+      "recomputed": 11585,
+      "status": "REPRODUCED",
+      "note": ""
+    },
+    {
+      "figure": "phased permits, active",
+      "expected": 2069,
+      "recomputed": 2069,
+      "status": "REPRODUCED",
+      "note": ""
+    },
+    {
+      "figure": "demolition-service WRECK rows",
+      "expected": 3843,
+      "recomputed": 3843,
+      "status": "REPRODUCED",
+      "note": ""
+    },
+    {
+      "figure": "demolitions, active",
+      "expected": 3837,
+      "recomputed": 3837,
+      "status": "REPRODUCED",
+      "note": ""
+    },
+    {
+      "figure": "non-wreck line items excluded",
+      "expected": 1309,
+      "recomputed": 1309,
+      "status": "REPRODUCED",
+      "note": ""
+    },
+    {
+      "figure": "net structures",
+      "expected": 7748,
+      "recomputed": 7748,
+      "status": "REPRODUCED",
+      "note": ""
+    },
+    {
+      "figure": "net incl. phased",
+      "expected": 9817,
+      "recomputed": 9817,
+      "status": "REPRODUCED",
+      "note": ""
+    },
+    {
+      "figure": "gross activity",
+      "expected": 15422,
+      "recomputed": 15422,
+      "status": "REPRODUCED",
+      "note": ""
+    },
+    {
+      "figure": "REST: permits in window",
+      "expected": 31200,
+      "recomputed": 31200,
+      "status": "REPRODUCED",
+      "note": ""
+    },
+    {
+      "figure": "REST: demo rows in window",
+      "expected": 5152,
+      "recomputed": 5152,
+      "status": "REPRODUCED",
+      "note": ""
+    },
+    {
+      "figure": "REST: demo WRECK rows",
+      "expected": 3843,
+      "recomputed": 3843,
+      "status": "REPRODUCED",
+      "note": ""
+    },
+    {
+      "figure": "REST: new-building rows (incl. cancelled)",
+      "expected": 11638,
+      "recomputed": 11638,
+      "status": "REPRODUCED",
+      "note": ""
+    },
+    {
+      "figure": "REST: commercial-service WRECK rows",
+      "expected": 0,
+      "recomputed": 0,
+      "status": "REPRODUCED",
+      "note": ""
+    },
+    {
+      "figure": "earliest issue date (Denver)",
+      "expected": "2020-01-01",
+      "recomputed": "2020-01-01",
+      "status": "REPRODUCED",
+      "note": ""
+    },
+    {
+      "figure": "latest issue date (Denver)",
+      "expected": "2026-10-12",
+      "recomputed": "2026-10-12",
+      "status": "REPRODUCED",
+      "note": ""
+    },
+    {
+      "figure": "new buildings 2020",
+      "expected": 1934,
+      "recomputed": 1934,
+      "status": "REPRODUCED",
+      "note": ""
+    },
+    {
+      "figure": "demolitions 2020",
+      "expected": 568,
+      "recomputed": 568,
+      "status": "REPRODUCED",
+      "note": ""
+    },
+    {
+      "figure": "net 2020",
+      "expected": 1366,
+      "recomputed": 1366,
+      "status": "REPRODUCED",
+      "note": ""
+    },
+    {
+      "figure": "new buildings 2021",
+      "expected": 2343,
+      "recomputed": 2343,
+      "status": "REPRODUCED",
+      "note": ""
+    },
+    {
+      "figure": "demolitions 2021",
+      "expected": 697,
+      "recomputed": 697,
+      "status": "REPRODUCED",
+      "note": ""
+    },
+    {
+      "figure": "net 2021",
+      "expected": 1646,
+      "recomputed": 1646,
+      "status": "REPRODUCED",
+      "note": ""
+    },
+    {
+      "figure": "new buildings 2022",
+      "expected": 2002,
+      "recomputed": 2002,
+      "status": "REPRODUCED",
+      "note": ""
+    },
+    {
+      "figure": "demolitions 2022",
+      "expected": 743,
+      "recomputed": 743,
+      "status": "REPRODUCED",
+      "note": ""
+    },
+    {
+      "figure": "net 2022",
+      "expected": 1259,
+      "recomputed": 1259,
+      "status": "REPRODUCED",
+      "note": ""
+    },
+    {
+      "figure": "new buildings 2023",
+      "expected": 1887,
+      "recomputed": 1887,
+      "status": "REPRODUCED",
+      "note": ""
+    },
+    {
+      "figure": "demolitions 2023",
+      "expected": 542,
+      "recomputed": 542,
+      "status": "REPRODUCED",
+      "note": ""
+    },
+    {
+      "figure": "net 2023",
+      "expected": 1345,
+      "recomputed": 1345,
+      "status": "REPRODUCED",
+      "note": ""
+    },
+    {
+      "figure": "new buildings 2024",
+      "expected": 1330,
+      "recomputed": 1330,
+      "status": "REPRODUCED",
+      "note": ""
+    },
+    {
+      "figure": "demolitions 2024",
+      "expected": 440,
+      "recomputed": 440,
+      "status": "REPRODUCED",
+      "note": ""
+    },
+    {
+      "figure": "net 2024",
+      "expected": 890,
+      "recomputed": 890,
+      "status": "REPRODUCED",
+      "note": ""
+    },
+    {
+      "figure": "new buildings 2025",
+      "expected": 1309,
+      "recomputed": 1309,
+      "status": "REPRODUCED",
+      "note": ""
+    },
+    {
+      "figure": "demolitions 2025",
+      "expected": 458,
+      "recomputed": 458,
+      "status": "REPRODUCED",
+      "note": ""
+    },
+    {
+      "figure": "net 2025",
+      "expected": 851,
+      "recomputed": 851,
+      "status": "REPRODUCED",
+      "note": ""
+    },
+    {
+      "figure": "new buildings 2026",
+      "expected": 780,
+      "recomputed": 780,
+      "status": "REPRODUCED",
+      "note": ""
+    },
+    {
+      "figure": "demolitions 2026",
+      "expected": 389,
+      "recomputed": 389,
+      "status": "REPRODUCED",
+      "note": ""
+    },
+    {
+      "figure": "net 2026",
+      "expected": 391,
+      "recomputed": 391,
+      "status": "REPRODUCED",
+      "note": ""
+    },
+    {
+      "figure": "NB units numeric coverage",
+      "expected": 6473,
+      "recomputed": 6473,
+      "status": "REPRODUCED",
+      "note": ""
+    },
+    {
+      "figure": "NB units reported sum",
+      "expected": 6622,
+      "recomputed": 6622,
+      "status": "REPRODUCED",
+      "note": ""
+    },
+    {
+      "figure": "demo units numeric coverage",
+      "expected": 1589,
+      "recomputed": 1589,
+      "status": "REPRODUCED",
+      "note": ""
+    },
+    {
+      "figure": "demo units reported sum",
+      "expected": 2032,
+      "recomputed": 2032,
+      "status": "REPRODUCED",
+      "note": ""
+    },
+    {
+      "figure": "NB in Central Park (field-based)",
+      "expected": 1075,
+      "recomputed": 1075,
+      "status": "REPRODUCED",
+      "note": "spatial join vs NEIGHBORHOOD field; small gaps expected from join misses"
+    },
+    {
+      "figure": "demos in Central Park (field-based)",
+      "expected": 12,
+      "recomputed": 12,
+      "status": "REPRODUCED",
+      "note": "spatial join vs NEIGHBORHOOD field"
+    },
+    {
+      "figure": "NB in Gateway - Green Valley Ranch (field-based)",
+      "expected": 847,
+      "recomputed": 847,
+      "status": "REPRODUCED",
+      "note": "spatial join vs NEIGHBORHOOD field; small gaps expected from join misses"
+    },
+    {
+      "figure": "demos in Gateway - Green Valley Ranch (field-based)",
+      "expected": 4,
+      "recomputed": 4,
+      "status": "REPRODUCED",
+      "note": "spatial join vs NEIGHBORHOOD field"
+    },
+    {
+      "figure": "NB in DIA (field-based)",
+      "expected": 738,
+      "recomputed": 738,
+      "status": "REPRODUCED",
+      "note": "spatial join vs NEIGHBORHOOD field; small gaps expected from join misses"
+    },
+    {
+      "figure": "demos in DIA (field-based)",
+      "expected": 5,
+      "recomputed": 5,
+      "status": "REPRODUCED",
+      "note": "spatial join vs NEIGHBORHOOD field"
+    },
+    {
+      "figure": "NB in West Colfax (field-based)",
+      "expected": 784,
+      "recomputed": 784,
+      "status": "REPRODUCED",
+      "note": "spatial join vs NEIGHBORHOOD field; small gaps expected from join misses"
+    },
+    {
+      "figure": "demos in West Colfax (field-based)",
+      "expected": 162,
+      "recomputed": 162,
+      "status": "REPRODUCED",
+      "note": "spatial join vs NEIGHBORHOOD field"
+    },
+    {
+      "figure": "NB in Berkeley (field-based)",
+      "expected": 544,
+      "recomputed": 544,
+      "status": "REPRODUCED",
+      "note": "spatial join vs NEIGHBORHOOD field; small gaps expected from join misses"
+    },
+    {
+      "figure": "demos in Berkeley (field-based)",
+      "expected": 236,
+      "recomputed": 236,
+      "status": "REPRODUCED",
+      "note": "spatial join vs NEIGHBORHOOD field"
+    },
+    {
+      "figure": "NB in Sunnyside (field-based)",
+      "expected": 490,
+      "recomputed": 490,
+      "status": "REPRODUCED",
+      "note": "spatial join vs NEIGHBORHOOD field; small gaps expected from join misses"
+    },
+    {
+      "figure": "demos in Sunnyside (field-based)",
+      "expected": 164,
+      "recomputed": 164,
+      "status": "REPRODUCED",
+      "note": "spatial join vs NEIGHBORHOOD field"
+    },
+    {
+      "figure": "NB in Washington Park (field-based)",
+      "expected": 430,
+      "recomputed": 430,
+      "status": "REPRODUCED",
+      "note": "spatial join vs NEIGHBORHOOD field; small gaps expected from join misses"
+    },
+    {
+      "figure": "demos in Washington Park (field-based)",
+      "expected": 276,
+      "recomputed": 276,
+      "status": "REPRODUCED",
+      "note": "spatial join vs NEIGHBORHOOD field"
+    },
+    {
+      "figure": "NB in Sun Valley (field-based)",
+      "expected": 0,
+      "recomputed": 0,
+      "status": "REPRODUCED",
+      "note": "spatial join vs NEIGHBORHOOD field; small gaps expected from join misses"
+    },
+    {
+      "figure": "demos in Sun Valley (field-based)",
+      "expected": 78,
+      "recomputed": 78,
+      "status": "REPRODUCED",
+      "note": "spatial join vs NEIGHBORHOOD field"
+    },
+    {
+      "figure": "NB in Civic Center (field-based)",
+      "expected": 0,
+      "recomputed": 0,
+      "status": "REPRODUCED",
+      "note": "spatial join vs NEIGHBORHOOD field; small gaps expected from join misses"
+    },
+    {
+      "figure": "demos in Civic Center (field-based)",
+      "expected": 32,
+      "recomputed": 32,
+      "status": "REPRODUCED",
+      "note": "spatial join vs NEIGHBORHOOD field"
+    },
+    {
+      "figure": "NB in Globeville (field-based)",
+      "expected": 26,
+      "recomputed": 26,
+      "status": "REPRODUCED",
+      "note": "spatial join vs NEIGHBORHOOD field; small gaps expected from join misses"
+    },
+    {
+      "figure": "demos in Globeville (field-based)",
+      "expected": 41,
+      "recomputed": 41,
+      "status": "REPRODUCED",
+      "note": "spatial join vs NEIGHBORHOOD field"
+    },
+    {
+      "figure": "new buildings inside growth areas",
+      "expected": 2940,
+      "recomputed": 2940,
+      "status": "REPRODUCED",
+      "note": ""
+    },
+    {
+      "figure": "demolitions inside growth areas",
+      "expected": 638,
+      "recomputed": 638,
+      "status": "REPRODUCED",
+      "note": ""
+    },
+    {
+      "figure": "new buildings in SU zoning",
+      "expected": 4222,
+      "recomputed": 4222,
+      "status": "REPRODUCED",
+      "note": ""
+    },
+    {
+      "figure": "demolitions in SU zoning",
+      "expected": 2142,
+      "recomputed": 2142,
+      "status": "REPRODUCED",
+      "note": ""
+    },
+    {
+      "figure": "pairing: demo share at NB address (pct, rounded)",
+      "expected": 62.5,
+      "recomputed": 62.4,
+      "status": "DISCREPANCY",
+      "note": ""
+    },
+    {
+      "figure": "brief #1 extract: rows without geometry",
+      "expected": null,
+      "recomputed": 73,
+      "status": "INFO",
+      "note": ""
+    },
+    {
+      "figure": "brief #1 active permits (its extract, geometry-dropped as in brief #1)",
+      "expected": 30902,
+      "recomputed": 30902,
+      "status": "REPRODUCED",
+      "note": ""
+    },
+    {
+      "figure": "brief #1 new buildings (its extract, geometry-dropped as in brief #1)",
+      "expected": 11559,
+      "recomputed": 11559,
+      "status": "REPRODUCED",
+      "note": ""
+    },
+    {
+      "figure": "fresh-pull NB issued on/before 2026-10-11",
+      "expected": 11559,
+      "recomputed": 11579,
+      "status": "RECONCILIATION",
+      "note": "delta vs brief #1 = permits issued Oct 12 in the later pull plus any Accela backfills/revisions"
+    }
+  ]
+}
